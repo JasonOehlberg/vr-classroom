@@ -1,0 +1,370 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f44607bd270d4f4eaa8869ed9b5b85c, type: 3}
+  m_Name: Gettysburg HQ Mode
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: f2d6afe568dab594199362b87ce57820, type: 3}
+  phonemeData:
+  - phoneme: 0
+    phonemeNumber: 5
+    time: .0072492836
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 1
+    time: .0224727783
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 6
+    time: .0413209163
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 2
+    time: .0456704833
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .0630687624
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 0
+    time: .0695931166
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 8
+    time: .0848166123
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 3
+    time: .0920659006
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .105839543
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 0
+    time: .116713464
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 3
+    time: .129037246
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .13773638
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 2
+    time: .148610309
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .158759311
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 3
+    time: .176157594
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 7
+    time: .202255011
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 3
+    time: .256624639
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .274747849
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .288521469
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 3
+    time: .297945559
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 5
+    time: .31679368
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 3
+    time: .33056733
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .339266449
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .343616009
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 2
+    time: .350865334
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .368263602
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .372613162
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .379862428
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 0
+    time: .384936929
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .392911166
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 0
+    time: .40378511
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .416108847
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 3
+    time: .432057291
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .476277918
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .498025745
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 0
+    time: .5371719
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 1
+    time: .543696225
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 5
+    time: .562544405
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 3
+    time: .569793701
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .598065853
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .607489944
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 1
+    time: .611114621
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .653160453
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 0
+    time: .678532898
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .682882488
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 0
+    time: .689406872
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .697381079
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 0
+    time: .701005697
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .707530081
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 2
+    time: .716954172
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 7
+    time: .722028613
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 2
+    time: .726378202
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .737977087
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 0
+    time: .745226324
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 2
+    time: .753925443
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 0
+    time: .766249239
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .770598829
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .781472743
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 3
+    time: .805395365
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 3
+    time: .822793663
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .850340903
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 2
+    time: .875713408
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 0
+    time: .880787909
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .892386794
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 0
+    time: .910510004
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .922833741
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 1
+    time: .943856716
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 4
+    time: .954005659
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 3
+    time: .963429749
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    phonemeNumber: 6
+    time: .967779338
+    intensity: 1
+    sustain: 0
+  emotionData: []
+  gestureData: []
+  version: 1.29999995
+  length: 13.794467
+  transcript: 

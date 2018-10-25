@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Exported from Rogo Digital LipSync Pro 1.43. Exported at 10/10/2018 12:02:40 AM-->
+<!--Note: This format cannot directly reference the linked AudioClip like a LipSyncData asset can. It is advised that you use that format instead unless you need to process the data further outside of Unity.-->
+<LipSyncData>
+	<version>1.43</version>
+	<transcript />
+	<length>3.915</length>
+	<phonemes>
+		<marker time="0.7189664" intensity="0.659" sustain="False" useRandomness="False" intensityRandomness="0.1" blendableRandomness="0.3" bonePositionRandomness="0.3" boneRotationRandomness="0.3" phonemeName="L" phonemeNumber="6" />
+		<marker time="0.864581" intensity="0.659" sustain="False" useRandomness="False" intensityRandomness="0.1" blendableRandomness="0.3" bonePositionRandomness="0.3" boneRotationRandomness="0.3" phonemeName="O" phonemeNumber="3" />
+		<marker time="1.478128" intensity="0.659" sustain="False" useRandomness="False" intensityRandomness="0.1" blendableRandomness="0.3" bonePositionRandomness="0.3" boneRotationRandomness="0.3" phonemeName="AI" phonemeNumber="0" />
+		<marker time="1.600265" intensity="1" sustain="False" useRandomness="False" intensityRandomness="0.1" blendableRandomness="0.3" bonePositionRandomness="0.3" boneRotationRandomness="0.3" phonemeName="MBP" phonemeNumber="7" />
+		<marker time="1.69" intensity="0.659" sustain="False" useRandomness="False" intensityRandomness="0.1" blendableRandomness="0.3" bonePositionRandomness="0.3" boneRotationRandomness="0.3" phonemeName="CDGKNRSThYZ" phonemeNumber="4" />
+		<marker time="1.73" intensity="0.659" sustain="False" useRandomness="False" intensityRandomness="0.1" blendableRandomness="0.3" bonePositionRandomness="0.3" boneRotationRandomness="0.3" phonemeName="U" phonemeNumber="2" />
+		<marker time="1.76" intensity="0.659" sustain="False" useRandomness="False" intensityRandomness="0.1" blendableRandomness="0.3" bonePositionRandomness="0.3" boneRotationRandomness="0.3" phonemeName="CDGKNRSThYZ" phonemeNumber="4" />
+		<marker time="1.83" intensity="0.659" sustain="False" useRandomness="False" intensityRandomness="0.1" blendableRandomness="0.3" bonePositionRandomness="0.3" boneRotationRandomness="0.3" phonemeName="E" phonemeNumber="1" />
+		<marker time="1.89" intensity="0.659" sustain="False" useRandomness="False" intensityRandomness="0.1" blendableRandomness="0.3" bonePositionRandomness="0.3" boneRotationRandomness="0.3" phonemeName="AI" phonemeNumber="0" />
+		<marker time="2.13" intensity="0.659" sustain="False" useRandomness="False" intensityRandomness="0.1" blendableRandomness="0.3" bonePositionRandomness="0.3" boneRotationRandomness="0.3" phonemeName="CDGKNRSThYZ" phonemeNumber="4" />
+		<marker time="2.63" intensity="0.659" sustain="False" useRandomness="False" intensityRandomness="0.1" blendableRandomness="0.3" bonePositionRandomness="0.3" boneRotationRandomness="0.3" phonemeName="AI" phonemeNumber="0" />
+		<marker time="2.74" intensity="0.659" sustain="False" useRandomness="False" intensityRandomness="0.1" blendableRandomness="0.3" bonePositionRandomness="0.3" boneRotationRandomness="0.3" phonemeName="CDGKNRSThYZ" phonemeNumber="4" />
+		<marker time="2.79" intensity="0.372" sustain="False" useRandomness="False" intensityRandomness="0.1" blendableRandomness="0.3" bonePositionRandomness="0.3" boneRotationRandomness="0.3" phonemeName="U" phonemeNumber="2" />
+	</phonemes>
+	<emotions>
+		<marker start="0.2114246" end="3.821682" blendFromMarker="false" blendToMarker="false" blendIn="0.025" blendOut="-0.025" customBlendIn="True" customBlendOut="True" intensity="1" continuousVariation="False" variationFrequency="0.5" intensityVariation="0.35" blendableVariation="0.1" bonePositionVariation="0.1" boneRotationVariation="0.1" emotion="Happy" />
+	</emotions>
+	<gestures>
+		<marker time="0.5723044" gesture="Talking&#xA;" />
+	</gestures>
+</LipSyncData>

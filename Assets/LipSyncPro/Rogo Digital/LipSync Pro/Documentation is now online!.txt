@@ -1,0 +1,2 @@
+The pdf documentation found in LipSync Pro 1.2 and below is still included for completeness and is still accurate, but it doesn't cover all features found in 1.4.
+New documentation is being put together at lipsync.rogodigital.com/documentation. This is still being worked on, so more information will arrive over time.

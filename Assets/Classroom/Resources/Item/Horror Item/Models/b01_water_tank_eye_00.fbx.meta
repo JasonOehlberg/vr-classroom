@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: dead342175cfac54ea3e889de6f09c94
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: eye
+    100004: eye_01
+    100006: eye_01 1
+    100008: eye_02
+    100010: eye_02 1
+    100012: eye_03
+    100014: eye_03 1
+    100016: eye_04
+    100018: eye_04 1
+    100020: eye_05
+    100022: eye_05 1
+    100024: glass
+    100026: leaf
+    100028: metal
+    100030: rock
+    100032: root
+    100034: susou
+    100036: water01
+    400000: //RootNode
+    400002: eye
+    400004: eye_01
+    400006: eye_01 1
+    400008: eye_02
+    400010: eye_02 1
+    400012: eye_03
+    400014: eye_03 1
+    400016: eye_04
+    400018: eye_04 1
+    400020: eye_05
+    400022: eye_05 1
+    400024: glass
+    400026: leaf
+    400028: metal
+    400030: rock
+    400032: root
+    400034: susou
+    400036: water01
+    2300000: glass
+    2300002: leaf
+    2300004: metal
+    2300006: rock
+    2300008: water01
+    3300000: glass
+    3300002: leaf
+    3300004: metal
+    3300006: rock
+    3300008: water01
+    4300000: eye_01
+    4300002: eye_02
+    4300004: eye_03
+    4300006: eye_04
+    4300008: eye_05
+    4300010: metal
+    4300012: water01
+    4300014: leaf
+    4300016: glass
+    4300018: rock
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: eye_01
+    13700002: eye_02
+    13700004: eye_03
+    13700006: eye_04
+    13700008: eye_05
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: eye
+        weight: 1
+      - path: eye/eye_01
+        weight: 1
+      - path: eye/eye_02
+        weight: 1
+      - path: eye/eye_03
+        weight: 1
+      - path: eye/eye_04
+        weight: 1
+      - path: eye/eye_05
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/eye_01 1
+        weight: 1
+      - path: root/eye_02 1
+        weight: 1
+      - path: root/eye_03 1
+        weight: 1
+      - path: root/eye_04 1
+        weight: 1
+      - path: root/eye_05 1
+        weight: 1
+      - path: susou
+        weight: 1
+      - path: susou/glass
+        weight: 1
+      - path: susou/leaf
+        weight: 1
+      - path: susou/metal
+        weight: 1
+      - path: susou/rock
+        weight: 1
+      - path: susou/water01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

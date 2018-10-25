@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 0e8f33c91878e90448e3da9c02ca8261
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fish
+    100004: Fish1
+    100006: Fish2
+    100008: Fish3
+    100010: fish_01
+    100012: fish_02
+    100014: fish_03
+    100016: fish_04
+    100018: glass
+    100020: L_fin_jnt
+    100022: L_fin_jnt1
+    100024: L_fin_jnt2
+    100026: L_fin_jnt3
+    100028: leaf
+    100030: metal
+    100032: R_fin_jnt
+    100034: R_fin_jnt1
+    100036: R_fin_jnt2
+    100038: R_fin_jnt3
+    100040: rock
+    100042: Root_jnt
+    100044: Root_jnt1
+    100046: Root_jnt2
+    100048: Root_jnt3
+    100050: Spine_base_jnt
+    100052: Spine_base_jnt1
+    100054: Spine_base_jnt2
+    100056: Spine_base_jnt3
+    100058: Spine_middle_jnt
+    100060: Spine_middle_jnt1
+    100062: Spine_middle_jnt2
+    100064: Spine_middle_jnt3
+    100066: suisou
+    100068: Tail_jnt
+    100070: Tail_jnt1
+    100072: Tail_jnt2
+    100074: Tail_jnt3
+    100076: water01
+    100078: Fish4
+    100080: fish_1
+    100082: fish_2
+    100084: fish_3
+    100086: fish_4
+    100088: L_fin_jnt4
+    100090: R_fin_jnt4
+    100092: Root1
+    100094: Root2
+    100096: Root3
+    100098: Root4
+    100100: Spine_base_jnt4
+    100102: Spine_middle_jnt4
+    100104: Tail_jnt4
+    400000: //RootNode
+    400002: Fish
+    400004: Fish1
+    400006: Fish2
+    400008: Fish3
+    400010: fish_01
+    400012: fish_02
+    400014: fish_03
+    400016: fish_04
+    400018: glass
+    400020: L_fin_jnt
+    400022: L_fin_jnt1
+    400024: L_fin_jnt2
+    400026: L_fin_jnt3
+    400028: leaf
+    400030: metal
+    400032: R_fin_jnt
+    400034: R_fin_jnt1
+    400036: R_fin_jnt2
+    400038: R_fin_jnt3
+    400040: rock
+    400042: Root_jnt
+    400044: Root_jnt1
+    400046: Root_jnt2
+    400048: Root_jnt3
+    400050: Spine_base_jnt
+    400052: Spine_base_jnt1
+    400054: Spine_base_jnt2
+    400056: Spine_base_jnt3
+    400058: Spine_middle_jnt
+    400060: Spine_middle_jnt1
+    400062: Spine_middle_jnt2
+    400064: Spine_middle_jnt3
+    400066: suisou
+    400068: Tail_jnt
+    400070: Tail_jnt1
+    400072: Tail_jnt2
+    400074: Tail_jnt3
+    400076: water01
+    400078: Fish4
+    400080: fish_1
+    400082: fish_2
+    400084: fish_3
+    400086: fish_4
+    400088: L_fin_jnt4
+    400090: R_fin_jnt4
+    400092: Root1
+    400094: Root2
+    400096: Root3
+    400098: Root4
+    400100: Spine_base_jnt4
+    400102: Spine_middle_jnt4
+    400104: Tail_jnt4
+    2300000: glass
+    2300002: leaf
+    2300004: metal
+    2300006: rock
+    2300008: water01
+    3300000: glass
+    3300002: leaf
+    3300004: metal
+    3300006: rock
+    3300008: water01
+    4300000: Fish
+    4300002: Fish1
+    4300004: Fish2
+    4300006: Fish3
+    4300008: metal
+    4300010: water01
+    4300012: leaf
+    4300014: glass
+    4300016: rock
+    4300018: Fish4
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Fish
+    13700002: Fish1
+    13700004: Fish2
+    13700006: Fish3
+    13700008: Fish4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 510
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fish_01
+        weight: 1
+      - path: fish_01/Fish
+        weight: 1
+      - path: fish_01/Root_jnt
+        weight: 1
+      - path: fish_01/Root_jnt/Spine_base_jnt
+        weight: 1
+      - path: fish_01/Root_jnt/Spine_base_jnt/L_fin_jnt
+        weight: 1
+      - path: fish_01/Root_jnt/Spine_base_jnt/R_fin_jnt
+        weight: 1
+      - path: fish_01/Root_jnt/Spine_base_jnt/Spine_middle_jnt
+        weight: 1
+      - path: fish_01/Root_jnt/Spine_base_jnt/Spine_middle_jnt/Tail_jnt
+        weight: 1
+      - path: fish_02
+        weight: 1
+      - path: fish_02/Fish1
+        weight: 1
+      - path: fish_02/Root_jnt1
+        weight: 1
+      - path: fish_02/Root_jnt1/Spine_base_jnt1
+        weight: 1
+      - path: fish_02/Root_jnt1/Spine_base_jnt1/L_fin_jnt1
+        weight: 1
+      - path: fish_02/Root_jnt1/Spine_base_jnt1/R_fin_jnt1
+        weight: 1
+      - path: fish_02/Root_jnt1/Spine_base_jnt1/Spine_middle_jnt1
+        weight: 1
+      - path: fish_02/Root_jnt1/Spine_base_jnt1/Spine_middle_jnt1/Tail_jnt1
+        weight: 1
+      - path: fish_03
+        weight: 1
+      - path: fish_03/Fish2
+        weight: 1
+      - path: fish_03/Root_jnt2
+        weight: 1
+      - path: fish_03/Root_jnt2/Spine_base_jnt2
+        weight: 1
+      - path: fish_03/Root_jnt2/Spine_base_jnt2/L_fin_jnt2
+        weight: 1
+      - path: fish_03/Root_jnt2/Spine_base_jnt2/R_fin_jnt2
+        weight: 1
+      - path: fish_03/Root_jnt2/Spine_base_jnt2/Spine_middle_jnt2
+        weight: 1
+      - path: fish_03/Root_jnt2/Spine_base_jnt2/Spine_middle_jnt2/Tail_jnt2
+        weight: 1
+      - path: fish_04
+        weight: 1
+      - path: fish_04/Fish3
+        weight: 1
+      - path: fish_04/Root_jnt3
+        weight: 1
+      - path: fish_04/Root_jnt3/Spine_base_jnt3
+        weight: 1
+      - path: fish_04/Root_jnt3/Spine_base_jnt3/L_fin_jnt3
+        weight: 1
+      - path: fish_04/Root_jnt3/Spine_base_jnt3/R_fin_jnt3
+        weight: 1
+      - path: fish_04/Root_jnt3/Spine_base_jnt3/Spine_middle_jnt3
+        weight: 1
+      - path: fish_04/Root_jnt3/Spine_base_jnt3/Spine_middle_jnt3/Tail_jnt3
+        weight: 1
+      - path: suisou
+        weight: 1
+      - path: suisou/glass
+        weight: 1
+      - path: suisou/leaf
+        weight: 1
+      - path: suisou/metal
+        weight: 1
+      - path: suisou/rock
+        weight: 1
+      - path: suisou/water01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: d30673aa64aa1a94f8986eb0a91a352e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ami
+    100002: en_tree_01
+    100004: en_yama_00
+    100006: en_zimen
+    100008: hei
+    100010: kousya
+    100012: light
+    100014: line
+    100016: //RootNode
+    100018: obj
+    100020: zimen
+    400000: ami
+    400002: en_tree_01
+    400004: en_yama_00
+    400006: en_zimen
+    400008: hei
+    400010: kousya
+    400012: light
+    400014: line
+    400016: //RootNode
+    400018: obj
+    400020: zimen
+    2300000: ami
+    2300002: en_tree_01
+    2300004: en_yama_00
+    2300006: en_zimen
+    2300008: hei
+    2300010: kousya
+    2300012: light
+    2300014: line
+    2300016: obj
+    2300018: zimen
+    3300000: ami
+    3300002: en_tree_01
+    3300004: en_yama_00
+    3300006: en_zimen
+    3300008: hei
+    3300010: kousya
+    3300012: light
+    3300014: line
+    3300016: obj
+    3300018: zimen
+    4300000: zimen
+    4300002: line
+    4300004: en_zimen
+    4300006: en_yama_00
+    4300008: en_tree_01
+    4300010: kousya
+    4300012: light
+    4300014: obj
+    4300016: ami
+    4300018: hei
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_00
+    second: {fileID: 2100000, guid: 5a5217a404e9a7844b32480152cd158c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_00_wall_00
+    second: {fileID: 2100000, guid: 499a505fdb8a77d4eb069bfa08cf62dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_com_00
+    second: {fileID: 2100000, guid: 94084a26b6cdc6a4584f2b28ce5e014c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_con_dai_00
+    second: {fileID: 2100000, guid: 55341df12164c66489110984ac0af181, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_con_rod_00
+    second: {fileID: 2100000, guid: 2292f68f40734e54bacdd1a3419a0531, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_door_00
+    second: {fileID: 2100000, guid: 6d4379f9cf437424eb03512b89b28542, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_gl_00
+    second: {fileID: 2100000, guid: 706588a501d8a234796546e3f3aa3b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_gl_01
+    second: {fileID: 2100000, guid: 4772a895561c83a4f9967ec6685ab07d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_gnd_00
+    second: {fileID: 2100000, guid: 19de831181672ff4aa18fbacf68c80e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_gun_line_00
+    second: {fileID: 2100000, guid: 6248ad9f52ed50d49af78a3d0531a453, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_home_00
+    second: {fileID: 2100000, guid: c6dcda14eb3fd6a4e96ff00e3e343ff7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_loof_00
+    second: {fileID: 2100000, guid: 9ccab83eb3aed864b97a74fe9c7629a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_loof_01
+    second: {fileID: 2100000, guid: c70522cff4ef29d488a294204953b3b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_mountain_00
+    second: {fileID: 2100000, guid: eaa770a27f90f284a9022e216249d6b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_net_00
+    second: {fileID: 2100000, guid: 8b98aa0bec29f7d4da6f078007205d70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_pole_00
+    second: {fileID: 2100000, guid: d11d7563369e7db43a2e133a1d3960cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_tile_00
+    second: {fileID: 2100000, guid: 4338b63c0006cff43ac1e640b7f3400b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_wall_00
+    second: {fileID: 2100000, guid: 4aaa9d571d5d0854aa7c158e3d94f830, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_wall_01
+    second: {fileID: 2100000, guid: 4ba4532b885835a42b540f3939a152be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b01_school_out_window_00
+    second: {fileID: 2100000, guid: 8619bbf5e8e30944882eaf45d6d5f299, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

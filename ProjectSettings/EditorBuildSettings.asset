@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/itseez3d/avatar_sdk/samples_cloud/05_resources_sample_cloud/scenes/05_resources_sample_cloud.unity
+    guid: 45ceaeafeb036d242b5453f1ab34bfa4
+  - enabled: 0
+    path: Assets/itseez3d/avatar_sdk/samples_core/scenes/avatar_viewer.unity
+    guid: 1aadff6e6a93e1b4abcd105840883e05

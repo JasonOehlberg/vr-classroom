@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: e9aae193cb635f34297c00a1fd162785
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface1_MeshPart0
+    100004: polySurface1_MeshPart1
+    100006: Furniture_school_chair_00
+    100008: Furniture_school_chair_00 1
+    100010: Furniture_school_chair_00 10
+    100012: Furniture_school_chair_00 11
+    100014: Furniture_school_chair_00 12
+    100016: Furniture_school_chair_00 13
+    100018: Furniture_school_chair_00 14
+    100020: Furniture_school_chair_00 15
+    100022: Furniture_school_chair_00 16
+    100024: Furniture_school_chair_00 17
+    100026: Furniture_school_chair_00 18
+    100028: Furniture_school_chair_00 19
+    100030: Furniture_school_chair_00 2
+    100032: Furniture_school_chair_00 20
+    100034: Furniture_school_chair_00 21
+    100036: Furniture_school_chair_00 22
+    100038: Furniture_school_chair_00 23
+    100040: Furniture_school_chair_00 24
+    100042: Furniture_school_chair_00 25
+    100044: Furniture_school_chair_00 26
+    100046: Furniture_school_chair_00 27
+    100048: Furniture_school_chair_00 28
+    100050: Furniture_school_chair_00 29
+    100052: Furniture_school_chair_00 3
+    100054: Furniture_school_chair_00 30
+    100056: Furniture_school_chair_00 31
+    100058: Furniture_school_chair_00 32
+    100060: Furniture_school_chair_00 33
+    100062: Furniture_school_chair_00 34
+    100064: Furniture_school_chair_00 35
+    100066: Furniture_school_chair_00 36
+    100068: Furniture_school_chair_00 37
+    100070: Furniture_school_chair_00 38
+    100072: Furniture_school_chair_00 39
+    100074: Furniture_school_chair_00 4
+    100076: Furniture_school_chair_00 40
+    100078: Furniture_school_chair_00 5
+    100080: Furniture_school_chair_00 6
+    100082: Furniture_school_chair_00 7
+    100084: Furniture_school_chair_00 8
+    100086: Furniture_school_chair_00 9
+    100088: Furniture_schoolchair_01:Furniture_school_chair_00
+    100090: Furniture_schooldesk_00:Furniture_schooldesk_00
+    100092: Furniture_schooldesk_01
+    100094: Furniture_schooldesk_01 1
+    100096: Furniture_schooldesk_01 2
+    100098: Furniture_schooldesk_01 3
+    100100: Furniture_schooldesk_01 4
+    100102: Furniture_schooldesk_01 5
+    100104: Furniture_schooldesk_02
+    100106: Furniture_schooldesk_02 1
+    100108: Furniture_schooldesk_02 2
+    100110: Furniture_schooldesk_02 3
+    100112: Furniture_schooldesk_02 4
+    100114: Furniture_schooldesk_02 5
+    100116: Furniture_schooldesk_03
+    100118: Furniture_schooldesk_03 1
+    100120: Furniture_schooldesk_03 2
+    100122: Furniture_schooldesk_03 3
+    100124: Furniture_schooldesk_03 4
+    100126: Furniture_schooldesk_03 5
+    100128: Furniture_schooldesk_04
+    100130: Furniture_schooldesk_04 1
+    100132: Furniture_schooldesk_04 2
+    100134: Furniture_schooldesk_04 3
+    100136: Furniture_schooldesk_04 4
+    100138: Furniture_schooldesk_04 5
+    100140: Furniture_schooldesk_05
+    100142: Furniture_schooldesk_05 1
+    100144: Furniture_schooldesk_05 2
+    100146: Furniture_schooldesk_05 3
+    100148: Furniture_schooldesk_05 4
+    100150: Furniture_schooldesk_05 5
+    100152: Furniture_schooldesk_06
+    100154: Furniture_schooldesk_06 1
+    100156: Furniture_schooldesk_06 2
+    100158: Furniture_schooldesk_06 3
+    100160: Furniture_schooldesk_06 4
+    100162: Furniture_schooldesk_06 5
+    100164: Furniture_schooldesk_07
+    100166: Furniture_schooldesk_07 1
+    100168: Furniture_schooldesk_07 2
+    100170: Furniture_schooldesk_07 3
+    100172: Furniture_schooldesk_07 4
+    100174: Furniture_teacherdesk_00:Furniture_blackboard_00
+    100176: Furniture_teacherdesk_00:Geometry
+    100178: Furniture_teacherdesk_00:polySurface1
+    100180: group1
+    100182: group2
+    100184: group3
+    100186: group4
+    100188: group5
+    100190: group6
+    100192: dsk_set 1
+    100194: dsk_set1
+    100196: dsk_set2
+    100198: dsk_set3
+    100200: dsk_set4
+    100202: dsk_set5
+    100204: teacherdesk_00
+    100206: teacherdesk_00 1
+    100208: Furniture_school_chair_00 41
+    100210: Furniture_schooldesk_07 5
+    400000: //RootNode
+    400002: polySurface1_MeshPart0
+    400004: polySurface1_MeshPart1
+    400006: Furniture_school_chair_00
+    400008: Furniture_school_chair_00 1
+    400010: Furniture_school_chair_00 10
+    400012: Furniture_school_chair_00 11
+    400014: Furniture_school_chair_00 12
+    400016: Furniture_school_chair_00 13
+    400018: Furniture_school_chair_00 14
+    400020: Furniture_school_chair_00 15
+    400022: Furniture_school_chair_00 16
+    400024: Furniture_school_chair_00 17
+    400026: Furniture_school_chair_00 18
+    400028: Furniture_school_chair_00 19
+    400030: Furniture_school_chair_00 2
+    400032: Furniture_school_chair_00 20
+    400034: Furniture_school_chair_00 21
+    400036: Furniture_school_chair_00 22
+    400038: Furniture_school_chair_00 23
+    400040: Furniture_school_chair_00 24
+    400042: Furniture_school_chair_00 25
+    400044: Furniture_school_chair_00 26
+    400046: Furniture_school_chair_00 27
+    400048: Furniture_school_chair_00 28
+    400050: Furniture_school_chair_00 29
+    400052: Furniture_school_chair_00 3
+    400054: Furniture_school_chair_00 30
+    400056: Furniture_school_chair_00 31
+    400058: Furniture_school_chair_00 32
+    400060: Furniture_school_chair_00 33
+    400062: Furniture_school_chair_00 34
+    400064: Furniture_school_chair_00 35
+    400066: Furniture_school_chair_00 36
+    400068: Furniture_school_chair_00 37
+    400070: Furniture_school_chair_00 38
+    400072: Furniture_school_chair_00 39
+    400074: Furniture_school_chair_00 4
+    400076: Furniture_school_chair_00 40
+    400078: Furniture_school_chair_00 5
+    400080: Furniture_school_chair_00 6
+    400082: Furniture_school_chair_00 7
+    400084: Furniture_school_chair_00 8
+    400086: Furniture_school_chair_00 9
+    400088: Furniture_schoolchair_01:Furniture_school_chair_00
+    400090: Furniture_schooldesk_00:Furniture_schooldesk_00
+    400092: Furniture_schooldesk_01
+    400094: Furniture_schooldesk_01 1
+    400096: Furniture_schooldesk_01 2
+    400098: Furniture_schooldesk_01 3
+    400100: Furniture_schooldesk_01 4
+    400102: Furniture_schooldesk_01 5
+    400104: Furniture_schooldesk_02
+    400106: Furniture_schooldesk_02 1
+    400108: Furniture_schooldesk_02 2
+    400110: Furniture_schooldesk_02 3
+    400112: Furniture_schooldesk_02 4
+    400114: Furniture_schooldesk_02 5
+    400116: Furniture_schooldesk_03
+    400118: Furniture_schooldesk_03 1
+    400120: Furniture_schooldesk_03 2
+    400122: Furniture_schooldesk_03 3
+    400124: Furniture_schooldesk_03 4
+    400126: Furniture_schooldesk_03 5
+    400128: Furniture_schooldesk_04
+    400130: Furniture_schooldesk_04 1
+    400132: Furniture_schooldesk_04 2
+    400134: Furniture_schooldesk_04 3
+    400136: Furniture_schooldesk_04 4
+    400138: Furniture_schooldesk_04 5
+    400140: Furniture_schooldesk_05
+    400142: Furniture_schooldesk_05 1
+    400144: Furniture_schooldesk_05 2
+    400146: Furniture_schooldesk_05 3
+    400148: Furniture_schooldesk_05 4
+    400150: Furniture_schooldesk_05 5
+    400152: Furniture_schooldesk_06
+    400154: Furniture_schooldesk_06 1
+    400156: Furniture_schooldesk_06 2
+    400158: Furniture_schooldesk_06 3
+    400160: Furniture_schooldesk_06 4
+    400162: Furniture_schooldesk_06 5
+    400164: Furniture_schooldesk_07
+    400166: Furniture_schooldesk_07 1
+    400168: Furniture_schooldesk_07 2
+    400170: Furniture_schooldesk_07 3
+    400172: Furniture_schooldesk_07 4
+    400174: Furniture_teacherdesk_00:Furniture_blackboard_00
+    400176: Furniture_teacherdesk_00:Geometry
+    400178: Furniture_teacherdesk_00:polySurface1
+    400180: group1
+    400182: group2
+    400184: group3
+    400186: group4
+    400188: group5
+    400190: group6
+    400192: dsk_set 1
+    400194: dsk_set1
+    400196: dsk_set2
+    400198: dsk_set3
+    400200: dsk_set4
+    400202: dsk_set5
+    400204: teacherdesk_00
+    400206: teacherdesk_00 1
+    400208: Furniture_school_chair_00 41
+    400210: Furniture_schooldesk_07 5
+    2300000: polySurface1_MeshPart0
+    2300002: polySurface1_MeshPart1
+    2300004: Furniture_school_chair_00
+    2300006: Furniture_school_chair_00 1
+    2300008: Furniture_school_chair_00 10
+    2300010: Furniture_school_chair_00 11
+    2300012: Furniture_school_chair_00 12
+    2300014: Furniture_school_chair_00 13
+    2300016: Furniture_school_chair_00 14
+    2300018: Furniture_school_chair_00 15
+    2300020: Furniture_school_chair_00 16
+    2300022: Furniture_school_chair_00 17
+    2300024: Furniture_school_chair_00 18
+    2300026: Furniture_school_chair_00 19
+    2300028: Furniture_school_chair_00 2
+    2300030: Furniture_school_chair_00 20
+    2300032: Furniture_school_chair_00 21
+    2300034: Furniture_school_chair_00 22
+    2300036: Furniture_school_chair_00 23
+    2300038: Furniture_school_chair_00 24
+    2300040: Furniture_school_chair_00 25
+    2300042: Furniture_school_chair_00 26
+    2300044: Furniture_school_chair_00 27
+    2300046: Furniture_school_chair_00 28
+    2300048: Furniture_school_chair_00 29
+    2300050: Furniture_school_chair_00 3
+    2300052: Furniture_school_chair_00 30
+    2300054: Furniture_school_chair_00 31
+    2300056: Furniture_school_chair_00 32
+    2300058: Furniture_school_chair_00 33
+    2300060: Furniture_school_chair_00 34
+    2300062: Furniture_school_chair_00 35
+    2300064: Furniture_school_chair_00 36
+    2300066: Furniture_school_chair_00 37
+    2300068: Furniture_school_chair_00 38
+    2300070: Furniture_school_chair_00 39
+    2300072: Furniture_school_chair_00 4
+    2300074: Furniture_school_chair_00 40
+    2300076: Furniture_school_chair_00 5
+    2300078: Furniture_school_chair_00 6
+    2300080: Furniture_school_chair_00 7
+    2300082: Furniture_school_chair_00 8
+    2300084: Furniture_school_chair_00 9
+    2300086: Furniture_schoolchair_01:Furniture_school_chair_00
+    2300088: Furniture_schooldesk_00:Furniture_schooldesk_00
+    2300090: Furniture_schooldesk_01
+    2300092: Furniture_schooldesk_01 1
+    2300094: Furniture_schooldesk_01 2
+    2300096: Furniture_schooldesk_01 3
+    2300098: Furniture_schooldesk_01 4
+    2300100: Furniture_schooldesk_01 5
+    2300102: Furniture_schooldesk_02
+    2300104: Furniture_schooldesk_02 1
+    2300106: Furniture_schooldesk_02 2
+    2300108: Furniture_schooldesk_02 3
+    2300110: Furniture_schooldesk_02 4
+    2300112: Furniture_schooldesk_02 5
+    2300114: Furniture_schooldesk_03
+    2300116: Furniture_schooldesk_03 1
+    2300118: Furniture_schooldesk_03 2
+    2300120: Furniture_schooldesk_03 3
+    2300122: Furniture_schooldesk_03 4
+    2300124: Furniture_schooldesk_03 5
+    2300126: Furniture_schooldesk_04
+    2300128: Furniture_schooldesk_04 1
+    2300130: Furniture_schooldesk_04 2
+    2300132: Furniture_schooldesk_04 3
+    2300134: Furniture_schooldesk_04 4
+    2300136: Furniture_schooldesk_04 5
+    2300138: Furniture_schooldesk_05
+    2300140: Furniture_schooldesk_05 1
+    2300142: Furniture_schooldesk_05 2
+    2300144: Furniture_schooldesk_05 3
+    2300146: Furniture_schooldesk_05 4
+    2300148: Furniture_schooldesk_05 5
+    2300150: Furniture_schooldesk_06
+    2300152: Furniture_schooldesk_06 1
+    2300154: Furniture_schooldesk_06 2
+    2300156: Furniture_schooldesk_06 3
+    2300158: Furniture_schooldesk_06 4
+    2300160: Furniture_schooldesk_06 5
+    2300162: Furniture_schooldesk_07
+    2300164: Furniture_schooldesk_07 1
+    2300166: Furniture_schooldesk_07 2
+    2300168: Furniture_schooldesk_07 3
+    2300170: Furniture_schooldesk_07 4
+    2300172: Furniture_teacherdesk_00:polySurface1
+    2300174: teacherdesk_00 1
+    2300176: Furniture_school_chair_00 41
+    2300178: Furniture_schooldesk_07 5
+    3300000: polySurface1_MeshPart0
+    3300002: polySurface1_MeshPart1
+    3300004: Furniture_school_chair_00
+    3300006: Furniture_school_chair_00 1
+    3300008: Furniture_school_chair_00 10
+    3300010: Furniture_school_chair_00 11
+    3300012: Furniture_school_chair_00 12
+    3300014: Furniture_school_chair_00 13
+    3300016: Furniture_school_chair_00 14
+    3300018: Furniture_school_chair_00 15
+    3300020: Furniture_school_chair_00 16
+    3300022: Furniture_school_chair_00 17
+    3300024: Furniture_school_chair_00 18
+    3300026: Furniture_school_chair_00 19
+    3300028: Furniture_school_chair_00 2
+    3300030: Furniture_school_chair_00 20
+    3300032: Furniture_school_chair_00 21
+    3300034: Furniture_school_chair_00 22
+    3300036: Furniture_school_chair_00 23
+    3300038: Furniture_school_chair_00 24
+    3300040: Furniture_school_chair_00 25
+    3300042: Furniture_school_chair_00 26
+    3300044: Furniture_school_chair_00 27
+    3300046: Furniture_school_chair_00 28
+    3300048: Furniture_school_chair_00 29
+    3300050: Furniture_school_chair_00 3
+    3300052: Furniture_school_chair_00 30
+    3300054: Furniture_school_chair_00 31
+    3300056: Furniture_school_chair_00 32
+    3300058: Furniture_school_chair_00 33
+    3300060: Furniture_school_chair_00 34
+    3300062: Furniture_school_chair_00 35
+    3300064: Furniture_school_chair_00 36
+    3300066: Furniture_school_chair_00 37
+    3300068: Furniture_school_chair_00 38
+    3300070: Furniture_school_chair_00 39
+    3300072: Furniture_school_chair_00 4
+    3300074: Furniture_school_chair_00 40
+    3300076: Furniture_school_chair_00 5
+    3300078: Furniture_school_chair_00 6
+    3300080: Furniture_school_chair_00 7
+    3300082: Furniture_school_chair_00 8
+    3300084: Furniture_school_chair_00 9
+    3300086: Furniture_schoolchair_01:Furniture_school_chair_00
+    3300088: Furniture_schooldesk_00:Furniture_schooldesk_00
+    3300090: Furniture_schooldesk_01
+    3300092: Furniture_schooldesk_01 1
+    3300094: Furniture_schooldesk_01 2
+    3300096: Furniture_schooldesk_01 3
+    3300098: Furniture_schooldesk_01 4
+    3300100: Furniture_schooldesk_01 5
+    3300102: Furniture_schooldesk_02
+    3300104: Furniture_schooldesk_02 1
+    3300106: Furniture_schooldesk_02 2
+    3300108: Furniture_schooldesk_02 3
+    3300110: Furniture_schooldesk_02 4
+    3300112: Furniture_schooldesk_02 5
+    3300114: Furniture_schooldesk_03
+    3300116: Furniture_schooldesk_03 1
+    3300118: Furniture_schooldesk_03 2
+    3300120: Furniture_schooldesk_03 3
+    3300122: Furniture_schooldesk_03 4
+    3300124: Furniture_schooldesk_03 5
+    3300126: Furniture_schooldesk_04
+    3300128: Furniture_schooldesk_04 1
+    3300130: Furniture_schooldesk_04 2
+    3300132: Furniture_schooldesk_04 3
+    3300134: Furniture_schooldesk_04 4
+    3300136: Furniture_schooldesk_04 5
+    3300138: Furniture_schooldesk_05
+    3300140: Furniture_schooldesk_05 1
+    3300142: Furniture_schooldesk_05 2
+    3300144: Furniture_schooldesk_05 3
+    3300146: Furniture_schooldesk_05 4
+    3300148: Furniture_schooldesk_05 5
+    3300150: Furniture_schooldesk_06
+    3300152: Furniture_schooldesk_06 1
+    3300154: Furniture_schooldesk_06 2
+    3300156: Furniture_schooldesk_06 3
+    3300158: Furniture_schooldesk_06 4
+    3300160: Furniture_schooldesk_06 5
+    3300162: Furniture_schooldesk_07
+    3300164: Furniture_schooldesk_07 1
+    3300166: Furniture_schooldesk_07 2
+    3300168: Furniture_schooldesk_07 3
+    3300170: Furniture_schooldesk_07 4
+    3300172: Furniture_teacherdesk_00:polySurface1
+    3300174: teacherdesk_00 1
+    3300176: Furniture_school_chair_00 41
+    3300178: Furniture_schooldesk_07 5
+    4300000: polySurface1_MeshPart0
+    4300002: polySurface1_MeshPart1
+    4300004: Furniture_schooldesk_01
+    4300006: Furniture_school_chair_00
+    4300008: Furniture_schooldesk_02
+    4300010: Furniture_school_chair_00
+    4300012: Furniture_schooldesk_03
+    4300014: Furniture_school_chair_00
+    4300016: Furniture_schooldesk_04
+    4300018: Furniture_school_chair_00
+    4300020: Furniture_schooldesk_05
+    4300022: Furniture_school_chair_00
+    4300024: Furniture_schooldesk_06
+    4300026: Furniture_school_chair_00
+    4300028: Furniture_schooldesk_07
+    4300030: Furniture_school_chair_00
+    4300032: Furniture_schooldesk_01
+    4300034: Furniture_school_chair_00
+    4300036: Furniture_schooldesk_02
+    4300038: Furniture_school_chair_00
+    4300040: Furniture_schooldesk_03
+    4300042: Furniture_school_chair_00
+    4300044: Furniture_schooldesk_04
+    4300046: Furniture_school_chair_00
+    4300048: Furniture_schooldesk_05
+    4300050: Furniture_school_chair_00
+    4300052: Furniture_schooldesk_06
+    4300054: Furniture_school_chair_00
+    4300056: Furniture_schooldesk_07
+    4300058: Furniture_school_chair_00
+    4300060: Furniture_schooldesk_01
+    4300062: Furniture_school_chair_00
+    4300064: Furniture_schooldesk_02
+    4300066: Furniture_school_chair_00
+    4300068: Furniture_schooldesk_03
+    4300070: Furniture_school_chair_00
+    4300072: Furniture_schooldesk_04
+    4300074: Furniture_school_chair_00
+    4300076: Furniture_schooldesk_05
+    4300078: Furniture_school_chair_00
+    4300080: Furniture_schooldesk_06
+    4300082: Furniture_school_chair_00
+    4300084: Furniture_schooldesk_07
+    4300086: Furniture_school_chair_00
+    4300088: Furniture_schooldesk_01
+    4300090: Furniture_school_chair_00
+    4300092: Furniture_schooldesk_02
+    4300094: Furniture_school_chair_00
+    4300096: Furniture_schooldesk_03
+    4300098: Furniture_school_chair_00
+    4300100: Furniture_schooldesk_04
+    4300102: Furniture_school_chair_00
+    4300104: Furniture_schooldesk_05
+    4300106: Furniture_school_chair_00
+    4300108: Furniture_schooldesk_06
+    4300110: Furniture_school_chair_00
+    4300112: Furniture_schooldesk_07
+    4300114: Furniture_school_chair_00
+    4300116: Furniture_schooldesk_01
+    4300118: Furniture_school_chair_00
+    4300120: Furniture_schooldesk_02
+    4300122: Furniture_school_chair_00
+    4300124: Furniture_schooldesk_03
+    4300126: Furniture_school_chair_00
+    4300128: Furniture_schooldesk_04
+    4300130: Furniture_school_chair_00
+    4300132: Furniture_schooldesk_05
+    4300134: Furniture_school_chair_00
+    4300136: Furniture_schooldesk_06
+    4300138: Furniture_school_chair_00
+    4300140: Furniture_schooldesk_07
+    4300142: Furniture_school_chair_00
+    4300144: Furniture_schooldesk_01
+    4300146: Furniture_school_chair_00
+    4300148: Furniture_schooldesk_02
+    4300150: Furniture_school_chair_00
+    4300152: Furniture_schooldesk_03
+    4300154: Furniture_school_chair_00
+    4300156: Furniture_schooldesk_04
+    4300158: Furniture_school_chair_00
+    4300160: Furniture_schooldesk_05
+    4300162: Furniture_school_chair_00
+    4300164: Furniture_schooldesk_06
+    4300166: Furniture_school_chair_00
+    4300168: Furniture_schooldesk_00:Furniture_schooldesk_00
+    4300170: Furniture_schoolchair_01:Furniture_school_chair_00
+    4300172: Furniture_teacherdesk_00:polySurface1
+    4300174: teacherdesk_00
+    4300176: Furniture_schooldesk_07
+    4300178: Furniture_school_chair_00
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

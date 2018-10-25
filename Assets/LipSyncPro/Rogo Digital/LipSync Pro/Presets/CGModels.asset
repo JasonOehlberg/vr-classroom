@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db07302a52ae0d84f8f0c1bf5a629241, type: 3}
+  m_Name: CGModels
+  m_EditorClassIdentifier: 
+  phonemeShapes:
+  - phonemeName: AI
+    phoneme: 0
+    blendables:
+    - blendableNumber: 0
+      blendableName: m_expressions.AE_AA_m (0)
+      weight: 42.3
+    - blendableNumber: 77
+      blendableName: m_teeth.t_AE_AA_m (77)
+      weight: 50.5
+    bones: []
+  - phonemeName: E
+    phoneme: 0
+    blendables:
+    - blendableNumber: 6
+      blendableName: m_expressions.H_EST_m (6)
+      weight: 84.4
+    - blendableNumber: 83
+      blendableName: m_teeth.t_H_EST_m (83)
+      weight: 100
+    bones: []
+  - phonemeName: U
+    phoneme: 0
+    blendables:
+    - blendableNumber: 1
+      blendableName: m_expressions.AO_a_m (1)
+      weight: 46.2
+    - blendableNumber: 78
+      blendableName: m_teeth.t_AO_a_m (78)
+      weight: 84.1
+    - blendableNumber: 4
+      blendableName: m_expressions.UH_OO_m (4)
+      weight: 57.1
+    bones: []
+  - phonemeName: O
+    phoneme: 0
+    blendables:
+    - blendableNumber: 4
+      blendableName: m_expressions.UH_OO_m (4)
+      weight: 46
+    - blendableNumber: 81
+      blendableName: m_teeth.t_UH_OO_m (81)
+      weight: 100
+    - blendableNumber: 1
+      blendableName: m_expressions.AO_a_m (1)
+      weight: 40.2
+    bones: []
+  - phonemeName: CDGKNRSThYZ
+    phoneme: 0
+    blendables:
+    - blendableNumber: 9
+      blendableName: m_expressions.SH_CH_m (9)
+      weight: 39.7
+    - blendableNumber: 8
+      blendableName: m_expressions.S_m (8)
+      weight: 98.1
+    - blendableNumber: 86
+      blendableName: m_teeth.t_SH_CH_m (86)
+      weight: 89.5
+    bones: []
+  - phonemeName: FV
+    phoneme: 0
+    blendables:
+    - blendableNumber: 7
+      blendableName: m_expressions.FV_m (7)
+      weight: 99.8
+    - blendableNumber: 13
+      blendableName: m_expressions.RlipUp_m (13)
+      weight: 37.3
+    - blendableNumber: 14
+      blendableName: m_expressions.LlipUp_m (14)
+      weight: 38.3
+    - blendableNumber: 84
+      blendableName: m_teeth.t_FV_m (84)
+      weight: 84.5
+    bones: []
+  - phonemeName: L
+    phoneme: 0
+    blendables:
+    - blendableNumber: 1
+      blendableName: m_expressions.AO_a_m (1)
+      weight: 55.7
+    - blendableNumber: 66
+      blendableName: m_teeth.CurlUp_Out_tg_m (66)
+      weight: 81.7
+    - blendableNumber: 77
+      blendableName: m_teeth.t_AE_AA_m (77)
+      weight: 51.1
+    bones: []
+  - phonemeName: MBP
+    phoneme: 0
+    blendables:
+    - blendableNumber: 10
+      blendableName: m_expressions.MPB_Up_m (10)
+      weight: 40.4
+    - blendableNumber: 87
+      blendableName: m_teeth.t_MPB_m (87)
+      weight: 68.9
+    - blendableNumber: 19
+      blendableName: m_expressions.RlipCorner_m (19)
+      weight: 57.1
+    - blendableNumber: 20
+      blendableName: m_expressions.LlipCorner_m (20)
+      weight: 57.1
+    - blendableNumber: 11
+      blendableName: m_expressions.MPB_Down_m (11)
+      weight: 38.8
+    bones: []
+  - phonemeName: WQ
+    phoneme: 0
+    blendables:
+    - blendableNumber: 12
+      blendableName: m_expressions.KG_m (12)
+      weight: 93.4
+    - blendableNumber: 88
+      blendableName: m_teeth.t_KG_m (88)
+      weight: 100
+    bones: []
+  - phonemeName: Rest
+    phoneme: 0
+    blendables:
+    - blendableNumber: 30
+      blendableName: m_expressions.RsmileOpen_m (30)
+      weight: 22.9
+    - blendableNumber: 31
+      blendableName: m_expressions.LsmileOpen_m (31)
+      weight: 21.4
+    bones: []
+  emotionShapes:
+  - emotion: Happy
+    blendables:
+    - blendableNumber: 30
+      blendableName: m_expressions.RsmileOpen_m (30)
+      weight: 61.2
+    - blendableNumber: 31
+      blendableName: m_expressions.LsmileOpen_m (31)
+      weight: 61.3
+    - blendableNumber: 19
+      blendableName: m_expressions.RlipCorner_m (19)
+      weight: 67.6
+    - blendableNumber: 20
+      blendableName: m_expressions.LlipCorner_m (20)
+      weight: 66
+    - blendableNumber: 58
+      blendableName: m_expressions.RbrowUp_m (58)
+      weight: 91.5
+    - blendableNumber: 59
+      blendableName: m_expressions.LbrowUp_m (59)
+      weight: 91.6
+    - blendableNumber: 43
+      blendableName: m_expressions.Rnostril_m (43)
+      weight: 41.4
+    - blendableNumber: 44
+      blendableName: m_expressions.Lnostril_m (44)
+      weight: 42.9
+    - blendableNumber: 49
+      blendableName: m_expressions.Rsquint_m (49)
+      weight: 13.6
+    - blendableNumber: 50
+      blendableName: m_expressions.Lsquint_m (50)
+      weight: 13
+    - blendableNumber: 37
+      blendableName: m_expressions.Rblow_m (37)
+      weight: 0
+    bones: []
+  - emotion: Serious
+    blendables:
+    - blendableNumber: 28
+      blendableName: m_expressions.RsmileClose_m (28)
+      weight: 40
+    - blendableNumber: 32
+      blendableName: m_expressions.RmouthSad_m (32)
+      weight: 31.7
+    - blendableNumber: 61
+      blendableName: m_expressions.RRbrowDown_m (61)
+      weight: 41.6
+    - blendableNumber: 62
+      blendableName: m_expressions.RbrowDown_m (62)
+      weight: 77.9
+    - blendableNumber: 63
+      blendableName: m_expressions.LbrowDown_m (63)
+      weight: 79.2
+    - blendableNumber: 64
+      blendableName: m_expressions.LLbrowDown_m (64)
+      weight: 80.8
+    bones: []
+  - emotion: Eyebrows Up
+    blendables: []
+    bones: []
+  - emotion: Sad
+    blendables: []
+    bones: []
