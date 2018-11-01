@@ -117,4 +117,10 @@ public class keywordListener : MonoBehaviour {
     {
         if(recognizer != null && recognizer.IsRunning)
         {
-            recognizer.OnPhraseRecognized -= Recognizer_OnPhraseRe
+            recognizer.OnPhraseRecognized -= Recognizer_OnPhraseRecognized;
+            recognizer.Stop();
+        }
+    }
+
+
+}
