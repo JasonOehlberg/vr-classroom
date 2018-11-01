@@ -1313,7 +1313,7 @@ GameObject:
   - component: {fileID: 116008671}
   m_Layer: 0
   m_Name: Patrick
-  m_TagString: Untagged
+  m_TagString: Student
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4631,7 +4631,7 @@ GameObject:
   - component: {fileID: 323772384}
   m_Layer: 0
   m_Name: David
-  m_TagString: Untagged
+  m_TagString: Student
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4986,7 +4986,7 @@ GameObject:
   - component: {fileID: 346677702}
   m_Layer: 0
   m_Name: Stacy
-  m_TagString: Untagged
+  m_TagString: Student
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6503,7 +6503,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 464885341}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 96.344, y: 5.5540853, z: 100.79954}
+  m_LocalPosition: {x: 95.611, y: 5.5540853, z: 100.79954}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -7005,8 +7005,8 @@ GameObject:
   - component: {fileID: 493060977}
   - component: {fileID: 493060976}
   m_Layer: 0
-  m_Name: Mel
-  m_TagString: Untagged
+  m_Name: Melissa
+  m_TagString: Student
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7735,7 +7735,7 @@ GameObject:
   - component: {fileID: 532810875}
   m_Layer: 0
   m_Name: Jane
-  m_TagString: Untagged
+  m_TagString: Student
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8323,8 +8323,8 @@ GameObject:
   - component: {fileID: 567537724}
   - component: {fileID: 567537723}
   m_Layer: 0
-  m_Name: Rae
-  m_TagString: Untagged
+  m_Name: Rachel
+  m_TagString: Student
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16279,7 +16279,7 @@ GameObject:
   - component: {fileID: 1099350706}
   m_Layer: 0
   m_Name: Angel
-  m_TagString: Untagged
+  m_TagString: Student
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21023,7 +21023,7 @@ GameObject:
   - component: {fileID: 1399412342}
   m_Layer: 0
   m_Name: Edith
-  m_TagString: Untagged
+  m_TagString: Student
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26532,7 +26532,7 @@ GameObject:
   - component: {fileID: 1811174926}
   m_Layer: 0
   m_Name: Alex
-  m_TagString: Untagged
+  m_TagString: Student
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30164,6 +30164,23 @@ Transform:
   m_Father: {fileID: 523608350}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2065162905 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1693928745045278, guid: 1ef4cde8df5cd0645ba47c07fcb8634c,
+    type: 2}
+  m_PrefabInternal: {fileID: 1467783410}
+--- !u!114 &2065162908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2065162905}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 396734b98d59bb240b0541ea2123eb17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  students: []
 --- !u!1 &2071758418
 GameObject:
   m_ObjectHideFlags: 0
@@ -30973,8 +30990,8 @@ GameObject:
   - component: {fileID: 2110780544}
   - component: {fileID: 2110780543}
   m_Layer: 0
-  m_Name: Shea
-  m_TagString: Untagged
+  m_Name: Tasha
+  m_TagString: Student
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
