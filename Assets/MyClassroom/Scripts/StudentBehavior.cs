@@ -28,8 +28,8 @@ public class StudentBehavior : MonoBehaviour {
                     if (student.name.Equals(called))
                     {
                         Debug.Log("Im here" + student.name);
-                        student.GetComponent<Animator>().SetBool("IsCalled", true);
-                        
+                        animator = student.GetComponent<Animator>();
+                        animator.SetBool("IsCalled", true);
                     }
                    
                 }
@@ -55,7 +55,8 @@ public class StudentBehavior : MonoBehaviour {
 
 
     // Update is called once per frame
-    void Update () {
+    void Update ()
+    {
 		
-	}
+    }
 }
