@@ -82,7 +82,7 @@ public class StudentBehavior : MonoBehaviour {
         });
 
         // sets the keywords keys to an array for the KeywordRecognizer to recognize
-        keywordRecognizer = new KeywordRecognizer(keywords.Keys.ToArray());
+        keywordRecognizer = new KeywordRecognizer(keywords.Keys.ToArray(),ConfidenceLevel.Medium);
         // Adds a method to listen for each keyword
         keywordRecognizer.OnPhraseRecognized += KeywordRecognizer_OnPhraseRecognized;
         // starts the recognizer
