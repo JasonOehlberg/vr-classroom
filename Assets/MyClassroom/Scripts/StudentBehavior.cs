@@ -25,13 +25,17 @@ public class StudentBehavior : MonoBehaviour {
         // Instanciates teh stunendts List Collection
         students = new List<GameObject>();
 
-        // Adds each Student GameObject in the stuedents List
+        // Adds each Student GameObject in the students List
         foreach (GameObject student in GameObject.FindGameObjectsWithTag("Student"))
         {
             students.Add(student);
+            // Finds the Name TextMesh object (child of the Student GameObject) and sets to temp variable
             var textObject = student.transform.Find("Name").gameObject;
+            // sets the TextMesh object to a position just above the Student object
             textObject.transform.position = new Vector3(student.transform.position.x, (student.transform.position.y) + 1.35F, student.transform.position.z);
+            // sets a temp variable to the TextMesh component of the TextMesh object
             var textMesh = textObject.GetComponent<TextMesh>();
+            // sets the default values of the TextMesh component
             textMesh.text = student.name;
             textMesh.alignment = TextAlignment.Center;
             textMesh.characterSize = 0.1F;
@@ -55,7 +59,9 @@ public class StudentBehavior : MonoBehaviour {
                         {
                             // it runs the Idle animation for attention
                             animator.SetBool("HasAttention", true);
+                            // sets a temp variable the child "Name" TextMesh component of the Student object
                             var nameColor = student.transform.Find("Name").gameObject.GetComponent<TextMesh>();
+                            // Changes the color if called on and not in the Attendance scenerio
                             nameColor.color = Color.blue;
                         }
                         else
@@ -65,7 +71,9 @@ public class StudentBehavior : MonoBehaviour {
                             animator.SetTrigger("IsCalled");
                             // IsAttendance for that student is set to false
                             animator.SetBool("IsAttendance", false);
+                            // sets a temp variable the child "Name" TextMesh component of the Student object
                             var nameColor = student.transform.Find("Name").gameObject.GetComponent<TextMesh>();
+                            // sets color back to default if called during Attendance scenerio
                             nameColor.color = Color.red;
                         }
                     }
@@ -80,7 +88,9 @@ public class StudentBehavior : MonoBehaviour {
            {
                // sets the Animator IsAttendance bool variable to true -- playing the Sitting Idle animation
                student.GetComponent<Animator>().SetBool("IsAttendance", true);
+               // sets a temp variable the child "Name" TextMesh component of the Student object
                var nameColor = student.transform.Find("Name").gameObject.GetComponent<TextMesh>();
+               // sets the TextMesh color if the Attendance scenerio is called
                nameColor.color = Color.green;
            }
        });
@@ -95,7 +105,9 @@ public class StudentBehavior : MonoBehaviour {
                 anim.SetBool("HasAttention", false);
                 if (anim.GetBool("IsAttendance") == false)
                 {
+                    // sets a temp variable the child "Name" TextMesh component of the Student object
                     var nameColor = student.transform.Find("Name").gameObject.GetComponent<TextMesh>();
+                    // changes the color back to the default if not in Attendance scenerio
                     nameColor.color = Color.red;
                 }
                 
@@ -142,8 +154,7 @@ public class StudentBehavior : MonoBehaviour {
 
     private void LateUpdate()
     {
-        //this.position = target.position;
-        //position.y += 2;
+        // Keeps the "Name" TextMesh child of student facing the camera at any position
         foreach( GameObject student in students)
         {
             student.transform.Find("Name").gameObject.transform.rotation = Camera.main.transform.rotation;
