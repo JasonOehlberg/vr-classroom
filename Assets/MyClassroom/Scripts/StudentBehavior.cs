@@ -8,6 +8,7 @@ public class StudentBehavior : MonoBehaviour {
 
     // A List Collection to hold all the student GameObjects
     public List<GameObject> students;
+
     // KeywordRecognizer Class
     KeywordRecognizer keywordRecognizer;
     // Dictionary will hold the word to recognize as the key and a callback function as the value
@@ -28,6 +29,14 @@ public class StudentBehavior : MonoBehaviour {
         foreach (GameObject student in GameObject.FindGameObjectsWithTag("Student"))
         {
             students.Add(student);
+            var textObject = student.transform.Find("Name").gameObject;
+            textObject.transform.position = new Vector3(student.transform.position.x, (student.transform.position.y) + 1.35F, student.transform.position.z);
+            var textMesh = textObject.GetComponent<TextMesh>();
+            textMesh.text = student.name;
+            textMesh.alignment = TextAlignment.Center;
+            textMesh.characterSize = 0.1F;
+            textMesh.color = Color.red;
+            textMesh.anchor = TextAnchor.MiddleCenter;
         }
 
         // adds a keywords Dictionary entry for each studnent based on their name
@@ -46,6 +55,8 @@ public class StudentBehavior : MonoBehaviour {
                         {
                             // it runs the Idle animation for attention
                             animator.SetBool("HasAttention", true);
+                            var nameColor = student.transform.Find("Name").gameObject.GetComponent<TextMesh>();
+                            nameColor.color = Color.blue;
                         }
                         else
                         {
@@ -54,6 +65,8 @@ public class StudentBehavior : MonoBehaviour {
                             animator.SetTrigger("IsCalled");
                             // IsAttendance for that student is set to false
                             animator.SetBool("IsAttendance", false);
+                            var nameColor = student.transform.Find("Name").gameObject.GetComponent<TextMesh>();
+                            nameColor.color = Color.red;
                         }
                     }
                 }
@@ -67,6 +80,8 @@ public class StudentBehavior : MonoBehaviour {
            {
                // sets the Animator IsAttendance bool variable to true -- playing the Sitting Idle animation
                student.GetComponent<Animator>().SetBool("IsAttendance", true);
+               var nameColor = student.transform.Find("Name").gameObject.GetComponent<TextMesh>();
+               nameColor.color = Color.green;
            }
        });
 
@@ -77,7 +92,13 @@ public class StudentBehavior : MonoBehaviour {
             {
                 // sets the HasAttention bool value to false -- stops looping the Idle animation
                 Animator anim = student.GetComponent<Animator>();
-                    anim.SetBool("HasAttention", false);
+                anim.SetBool("HasAttention", false);
+                if (anim.GetBool("IsAttendance") == false)
+                {
+                    var nameColor = student.transform.Find("Name").gameObject.GetComponent<TextMesh>();
+                    nameColor.color = Color.red;
+                }
+                
             }
         });
 
@@ -117,5 +138,17 @@ public class StudentBehavior : MonoBehaviour {
             }
         }*/
 		
+    }
+
+    private void LateUpdate()
+    {
+        //this.position = target.position;
+        //position.y += 2;
+        foreach( GameObject student in students)
+        {
+            student.transform.Find("Name").gameObject.transform.rotation = Camera.main.transform.rotation;
+        }
+        
+
     }
 }
