@@ -11,5 +11,8 @@ The simulation begins with the *Students* working quietly at their desks. Each o
 
 ## Development
 The project was developed using [Unity](https://unity3d.com/) (gaming engine), [Oculus Rift](https://www.oculus.com/rift/) (VR hardware device), [autoDesk Character Generator](https://charactergenerator.autodesk.com/) (3d model generator) and [Mixamo](https://www.mixamo.com/) (online animation software). 
-Four asset packages, aquired from the [Untiy Asset Store](https://assetstore.unity.com/) are also involved in the development of the project.
-1. [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022)
+Three asset packages, aquired from the [Untiy Asset Store](https://assetstore.unity.com/) are also involved in the development of the project.
+1. [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022) -- Advanced rendering, social, platform, audio, and Avatars support for Oculus VR devices and some Open VR supported devices. **FREE**
+2. [School Classroom Pack](https://assetstore.unity.com/packages/3d/props/interior/school-classroom-pack-116794) -- This set includes classrooms, blackboards, curtains, clocks, desks, and corridors, as well as boxed lunch, chalks, bags, cleaning tools, buckets, fried noodle sandwiches, love letters and supernatural fiery balls. **PAID** 
+3. [LipSync Pro](https://assetstore.unity.com/packages/tools/animation/lipsync-pro-32117) -- LipSync Pro is an editor extension for creating high-quality lipsyncing and facial animation inside Unity. **PAID**
+    *Has not been integrated into main classroom scene*
