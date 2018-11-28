@@ -28,7 +28,7 @@ The simulation takes place in a common classroom environment. The classroom cons
 
 The simulation begins with the *Students* working quietly at their desks. Each of the individual *Student's* names are displayed in red above their heads. When the keyword "Attendance" is announced by the user each of the *Students* stops working, sits attentively at their desks and their name is displayed in green. As the user calls the names of each of the *Students*, the *Student* raises their hand, the name returns to the default red color and they go back to working quietly. When the name of a *Student* is called, outside of the attendance scenerio, the *Student* again sits at attention and the name color appears in blue.
 ___
-[Oculus VR Walkthrough](https://www.youtube.com/watch?v=LI_w_G2vvpA)
+[Oculus VR Walkthrough](https://www.youtube.com/edit?o=U&video_id=X7hNp3HNgV8)
 ___
 [Walkthrough without VR Hardware](https://www.youtube.com/watch?v=E3SAvxoFuv0)
 ___
