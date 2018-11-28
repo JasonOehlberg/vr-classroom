@@ -3,6 +3,8 @@
 A classroom simulation VR simulation built with Unity
 
 ![VR Classroom](https://github.com/JasonOehlberg/vr-classroom/blob/master/ClassroomStill4.jpg)
+## Overview
+The VR Classroom simulation involves creating a semi-realistic classroom environment for the use of the College of Education at Northeastern State University. The simulation utilizes [Unity](https://unity3d.com/), a leading gaming engine and [Oculus Rift](https://www.oculus.com/rift/), a leader in virtual reality hardware technology. The goal of this project is to set the groundwork for future improvements and scenerios to be made for the use of students pursuing degrees in education. VR Classroom was created in conjunction with a capstone project by Jason Oehlberg pursuing a bachelor's degree in Computer Science at Northeastern State University.
 
 ## Getting Started
 
@@ -19,9 +21,6 @@ git clone https://github.com/JasonOehlberg/vr-classroom.git
 - The code for the voice recognition is located in the [StudentBehavoir.cs](https://github.com/JasonOehlberg/vr-classroom/blob/master/Assets/MyClassroom/Scripts/StudentBehavior.cs) script
 - Review the documentation for [UnityEngine.Windows.Speech](https://docs.microsoft.com/en-us/windows/mixed-reality/voice-input-in-unity)
 - For easy use of git and GitHub download and install the [Github for Unity](https://assetstore.unity.com/packages/tools/version-control/github-for-unity-118069) asset library.
-
-## Overview
-The VR Classroom simulation involves creating a semi-realistic classroom environment for the use of the College of Education at Northeastern State University. The simulation utilizes [Unity](https://unity3d.com/), a leading gaming engine and [Oculus Rift](https://www.oculus.com/rift/), a leader in virtual reality hardware technology. The goal of this project is to set the groundwork for future improvements and scenerios to be made for the use of students pursuing degrees in education. VR Classroom was created in conjunction with a capstone project by Jason Oehlberg pursuing a bachelor's degree in Computer Science at Northeastern State University.
 
 ## Description
 The simulation takes place in a common classroom environment. The classroom consists of several desks occupied by *Students*. The user steps into the environment using the virtual reality headset and hand-held controllers. Most of the interaction in the environment is controlled by voice recognition. The Unity Engine exposes the library for Windows Speech allowing for keyword recognition.
@@ -49,6 +48,16 @@ Three asset packages, aquired from the [Untiy Asset Store](https://assetstore.un
 - **AutoDesk Character Creator** -- Used for generating all the 3d humanoid models found in the project. Each character generated came with skeleton and blend shapes for easy manipulation and animation.
 - **Mixamo** -- Used for basic character animations.
 - **Windows Speech** -- Used for voice recognition
+### Helpful links
+> - **Holistic3D**
+>     - [YouTube Channel](https://www.youtube.com/channel/UCp_SOgsRYdLfIEWLjM62ZJg)
+>     - [Mixamo & Unity](https://www.youtube.com/watch?v=BEIaakl9vJE)
+>     - [Fuse + Mixamo + Unity Workflow](https://www.youtube.com/watch?v=uC_ruUS_xRQ)
+>     - [Finite State Machines](https://www.youtube.com/watch?v=NEvdyefORBo)
+>-  **Maya** -- Free software for students
+>     - [Link](https://www.autodesk.com/education/free-software/featured)
+> - **Rogo Digital LipSync Pro Documentation**
+>     - [Link](https://lipsync.rogodigital.com/)
 
 ## Contributing
 Northeastern State University Computer Science students are welcome fork and contribute to the project benefitting the College of Education. If you would like to contribute as research or as a capstone project please contact your mentor.
