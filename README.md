@@ -2,7 +2,7 @@
 # VR Classroom
 A classroom simulation VR simulation built with Unity
 
-![VR Classroom without Oculus](https://github.com/JasonOehlberg/vr-classroom/blob/master/ClassroomStill2.jpg)
+![VR Classroom](https://github.com/JasonOehlberg/vr-classroom/blob/master/ClassroomStill4.jpg)
 
 ## Getting Started
 
