@@ -3,11 +3,6 @@
 A classroom simulation VR simulation built with Unity
 
 ![VR Classroom without Oculus](https://github.com/JasonOehlberg/vr-classroom/blob/master/ClassroomStill2.jpg)
-___
-[Oculus VR Walkthrough](https://www.youtube.com/watch?v=LI_w_G2vvpA)
-___
-[Walkthrough without VR Hardware](https://www.youtube.com/watch?v=E3SAvxoFuv0)
-___
 
 ## Getting Started
 
@@ -32,6 +27,12 @@ The VR Classroom simulation involves creating a semi-realistic classroom environ
 The simulation takes place in a common classroom environment. The classroom consists of several desks occupied by *Students*. The user steps into the environment using the virtual reality headset and hand-held controllers. Most of the interaction in the environment is controlled by voice recognition. The Unity Engine exposes the library for Windows Speech allowing for keyword recognition.
 
 The simulation begins with the *Students* working quietly at their desks. Each of the individual *Student's* names are displayed in red above their heads. When the keyword "Attendance" is announced by the user each of the *Students* stops working, sits attentively at their desks and their name is displayed in green. As the user calls the names of each of the *Students*, the *Student* raises their hand, the name returns to the default red color and they go back to working quietly. When the name of a *Student* is called, outside of the attendance scenerio, the *Student* again sits at attention and the name color appears in blue.
+___
+[Oculus VR Walkthrough](https://www.youtube.com/watch?v=LI_w_G2vvpA)
+___
+[Walkthrough without VR Hardware](https://www.youtube.com/watch?v=E3SAvxoFuv0)
+___
+
 
 ## Development
 The project was developed using [Unity](https://unity3d.com/) (gaming engine), [Oculus Rift](https://www.oculus.com/rift/) (VR hardware device), [autoDesk Character Generator](https://charactergenerator.autodesk.com/) (3d model generator) and [Mixamo](https://www.mixamo.com/) (online animation software). 
