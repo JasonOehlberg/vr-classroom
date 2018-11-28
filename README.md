@@ -28,11 +28,12 @@ The simulation takes place in a common classroom environment. The classroom cons
 
 The simulation begins with the *Students* working quietly at their desks. Each of the individual *Student's* names are displayed in red above their heads. When the keyword "Attendance" is announced by the user each of the *Students* stops working, sits attentively at their desks and their name is displayed in green. As the user calls the names of each of the *Students*, the *Student* raises their hand, the name returns to the default red color and they go back to working quietly. When the name of a *Student* is called, outside of the attendance scenerio, the *Student* again sits at attention and the name color appears in blue.
 ___
-[Oculus VR Walkthrough](https://www.youtube.com/edit?o=U&video_id=X7hNp3HNgV8)
+[Oculus VR Walkthrough](https://www.youtube.com/watch?v=X7hNp3HNgV8)
 ___
 [Walkthrough without VR Hardware](https://www.youtube.com/watch?v=E3SAvxoFuv0)
 ___
-
+[Test Scene](https://www.youtube.com/watch?v=bITyW3xjzXQ) Using Alex for future project integration
+___
 
 ## Development
 The project was developed using [Unity](https://unity3d.com/) (gaming engine), [Oculus Rift](https://www.oculus.com/rift/) (VR hardware device), [autoDesk Character Generator](https://charactergenerator.autodesk.com/) (3d model generator) and [Mixamo](https://www.mixamo.com/) (online animation software). 
@@ -41,6 +42,8 @@ Three asset packages, aquired from the [Untiy Asset Store](https://assetstore.un
 2. [School Classroom Pack](https://assetstore.unity.com/packages/3d/props/interior/school-classroom-pack-116794) -- This set includes classrooms, blackboards, curtains, clocks, desks, and corridors, as well as boxed lunch, chalks, bags, cleaning tools, buckets, fried noodle sandwiches, love letters and supernatural fiery balls. **PAID** 
 3. [LipSync Pro](https://assetstore.unity.com/packages/tools/animation/lipsync-pro-32117) -- LipSync Pro is an editor extension for creating high-quality lipsyncing and facial animation inside Unity. **PAID**
     *Has not been integrated into main classroom scene*
+- **AutoDesk Character Creator** was used for generating all the 3d humanoid models found in the project. Each character generated came with skeleton and blend shapes for easy manipulation and animation.
+- **Mixamo**
 
 ## Contributing
 Northeastern State University Computer Science students are welcome fork and contribute to the project benefitting the College of Education. If you would like to contribute as research or as a capstone project please contact your mentor.
