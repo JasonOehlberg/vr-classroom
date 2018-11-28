@@ -18,7 +18,7 @@ Three asset packages, aquired from the [Untiy Asset Store](https://assetstore.un
     *Has not been integrated into main classroom scene*
 
 ## Contributing
-Northeastern State University Computer Science students are welcome fork and contribute to the project benefitting the College of Education. If you would like to contribute as research or as a capstone project please contact Dr. Bekkering.
+Northeastern State University Computer Science students are welcome fork and contribute to the project benefitting the College of Education. If you would like to contribute as research or as a capstone project please contact your mentor.
 
 ## Note
 This repository does not include the Oculus integration needed to complete the VR Classroom simulation. Because this repository will be available to NSU students wanting to continue the project, modification can be made without Oculus integration. For further information on Oculus Rift integration please refer to the [documentation](https://developer.oculus.com/documentation/) or review this YouTube [video](https://www.youtube.com/watch?v=sxvKGVDmYfY) for a quick tutorial.
