@@ -42,7 +42,7 @@ Three asset packages, aquired from the [Untiy Asset Store](https://assetstore.un
 2. [School Classroom Pack](https://assetstore.unity.com/packages/3d/props/interior/school-classroom-pack-116794) -- This set includes classrooms, blackboards, curtains, clocks, desks, and corridors, as well as boxed lunch, chalks, bags, cleaning tools, buckets, fried noodle sandwiches, love letters and supernatural fiery balls. **PAID** 
 3. [LipSync Pro](https://assetstore.unity.com/packages/tools/animation/lipsync-pro-32117) -- LipSync Pro is an editor extension for creating high-quality lipsyncing and facial animation inside Unity. **PAID**
     *Has not been integrated into main classroom scene*
-# Technologies Used
+### Technologies Used
 - **AutoDesk Character Creator** -- Used for generating all the 3d humanoid models found in the project. Each character generated came with skeleton and blend shapes for easy manipulation and animation.
 - **Mixamo** -- Used for basic character animations.
 - **Windows Speech** -- Used for voice recognition
