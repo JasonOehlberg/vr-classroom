@@ -27,6 +27,7 @@ The VR Classroom simulation involves creating a semi-realistic classroom environ
 The simulation takes place in a common classroom environment. The classroom consists of several desks occupied by *Students*. The user steps into the environment using the virtual reality headset and hand-held controllers. Most of the interaction in the environment is controlled by voice recognition. The Unity Engine exposes the library for Windows Speech allowing for keyword recognition.
 
 The simulation begins with the *Students* working quietly at their desks. Each of the individual *Student's* names are displayed in red above their heads. When the keyword "Attendance" is announced by the user each of the *Students* stops working, sits attentively at their desks and their name is displayed in green. As the user calls the names of each of the *Students*, the *Student* raises their hand, the name returns to the default red color and they go back to working quietly. When the name of a *Student* is called, outside of the attendance scenerio, the *Student* again sits at attention and the name color appears in blue.
+> *For a more detailed description of the project, please refer to the video links below*
 ___
 [Oculus VR Walkthrough](https://www.youtube.com/watch?v=X7hNp3HNgV8)
 ___
@@ -41,8 +42,10 @@ Three asset packages, aquired from the [Untiy Asset Store](https://assetstore.un
 1. [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022) -- Advanced rendering, social, platform, audio, and Avatars support for Oculus VR devices and some Open VR supported devices. **FREE**
 2. [School Classroom Pack](https://assetstore.unity.com/packages/3d/props/interior/school-classroom-pack-116794) -- This set includes classrooms, blackboards, curtains, clocks, desks, and corridors, as well as boxed lunch, chalks, bags, cleaning tools, buckets, fried noodle sandwiches, love letters and supernatural fiery balls. **PAID** 
 3. [LipSync Pro](https://assetstore.unity.com/packages/tools/animation/lipsync-pro-32117) -- LipSync Pro is an editor extension for creating high-quality lipsyncing and facial animation inside Unity. **PAID**
-    *Has not been integrated into main classroom scene*
+> *Has not been integrated into main classroom scene as of build 2*
 ### Technologies Used
+- **Unity** -- Used for building 3d environment, script integration, game object manipulation, and building scenes.
+- **Oculus Rift** --Hardware used for virtual reality integration in conjunction with Unity.
 - **AutoDesk Character Creator** -- Used for generating all the 3d humanoid models found in the project. Each character generated came with skeleton and blend shapes for easy manipulation and animation.
 - **Mixamo** -- Used for basic character animations.
 - **Windows Speech** -- Used for voice recognition
