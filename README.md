@@ -3,6 +3,11 @@
 A classroom simulation VR simulation built with Unity
 
 ![VR Classroom without Oculus](https://github.com/JasonOehlberg/vr-classroom/blob/master/ClassroomStill2.jpg)
+___
+[Oculus VR Walkthrough](https://www.youtube.com/watch?v=LI_w_G2vvpA)
+___
+[Walkthrough without VR Hardware](https://www.youtube.com/watch?v=E3SAvxoFuv0)
+___
 
 ## Getting Started
 
