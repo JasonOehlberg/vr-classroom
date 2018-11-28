@@ -1,6 +1,22 @@
 # VR Classroom
 A classroom simulation VR simulation built with Unity
 
+## Getting Started
+
+- Download and Install [Unity](https://unity3d.com/get-unity/download) version: **2018.2012f1** or later.
+- Install these asset libraries from the [Unity Assset Store](https://www.assetstore.unity3d.com/)
+   - [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022)
+   - [School Classroom Pack](https://assetstore.unity.com/packages/3d/props/interior/school-classroom-pack-116794)
+   - [LipSync Pro](https://assetstore.unity.com/packages/tools/animation/lipsync-pro-32117)
+- Clone this repository or download zip file
+```
+git clone https://github.com/JasonOehlberg/vr-classroom.git
+```
+- Follow the steps in this [video](https://www.youtube.com/watch?v=sxvKGVDmYfY) closely for Oculus Integration
+- The code for the voice recognition is located in the [StudentBehavoir.cs](https://github.com/JasonOehlberg/vr-classroom/blob/master/Assets/MyClassroom/Scripts/StudentBehavior.cs) script
+- Review the documentation for [UnityEngine.Windows.Speech](https://docs.microsoft.com/en-us/windows/mixed-reality/voice-input-in-unity)
+- For easy use of git and GitHub download and install the [Github for Unity](https://assetstore.unity.com/packages/tools/version-control/github-for-unity-118069) asset library.
+
 ## Overview
 The VR Classroom simulation involves creating a semi-realistic classroom environment for the use of the College of Education at Northeastern State University. The simulation utilizes [Unity](https://unity3d.com/), a leading gaming engine and [Oculus Rift](https://www.oculus.com/rift/), a leader in virtual reality hardware technology. The goal of this project is to set the groundwork for future improvements and scenerios to be made for the use of students pursuing degrees in education. VR Classroom was created in conjunction with a capstone project by Jason Oehlberg pursuing a bachelor's degree in Computer Science at Northeastern State University.
 
