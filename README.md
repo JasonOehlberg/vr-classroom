@@ -4,7 +4,7 @@ A classroom simulation VR simulation built with Unity
 
 ![VR Classroom](https://github.com/JasonOehlberg/vr-classroom/blob/master/ClassroomStill4.jpg)
 ## Overview
-The VR Classroom simulation involves creating a semi-realistic classroom environment for the use of the College of Education at Northeastern State University. The simulation utilizes [Unity](https://unity3d.com/), a leading gaming engine and [Oculus Rift](https://www.oculus.com/rift/), a leader in virtual reality hardware technology. The goal of this project is to set the groundwork for future improvements and scenerios to be made for the use of students pursuing degrees in education. VR Classroom was created in conjunction with a capstone project by Jason Oehlberg pursuing a bachelor's degree in Computer Science at Northeastern State University.
+The VR Classroom is an ongoing project for the creation of a semi-realistic classroom environment. The project's aim is to create classroom behavioral scenerios for use by the College of Education at Northeastern State University. This project lays the groundwork for future improvements and scenerios to be created with the purpose of being utilized by students pursuing degrees in education.The simulation is built with [Unity](https://unity3d.com/), a leading gaming engine and [Oculus Rift](https://www.oculus.com/rift/), a leader in virtual reality hardware technology. VR Classroom was created in conjunction with a capstone project by Jason Oehlberg pursuing a bachelor's degree in Computer Science at Northeastern State University.
 
 ## Getting Started
 
