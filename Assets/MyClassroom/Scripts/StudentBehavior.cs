@@ -59,6 +59,7 @@ public class StudentBehavior : MonoBehaviour {
                         {
                             // it runs the Idle animation for attention
                             animator.SetBool("HasAttention", true);
+
                             // sets a temp variable the child "Name" TextMesh component of the Student object
                             var nameColor = student.transform.Find("Name").gameObject.GetComponent<TextMesh>();
                             // Changes the color if called on and not in the Attendance scenerio
