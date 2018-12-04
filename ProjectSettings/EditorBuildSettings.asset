@@ -6,8 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/itseez3d/avatar_sdk/samples_cloud/05_resources_sample_cloud/scenes/05_resources_sample_cloud.unity
+    path: 
     guid: 45ceaeafeb036d242b5453f1ab34bfa4
   - enabled: 0
-    path: Assets/itseez3d/avatar_sdk/samples_core/scenes/avatar_viewer.unity
+    path: 
     guid: 1aadff6e6a93e1b4abcd105840883e05
+  - enabled: 1
+    path: Assets/MyClassroom/Scenes/Classroom1.unity
+    guid: 106d239ee4314604b8d7661785843df9
+  m_configObjects: {}
